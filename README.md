@@ -44,7 +44,7 @@ Follow these steps to get the project up and running:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/omkaarr1/ai-powered-size-chart-generator.git
+    git clone https://github.com/Omkaarr1/ai-powered-size-chart-generator.git
     cd ai-powered-size-chart-generator
     ```
 
